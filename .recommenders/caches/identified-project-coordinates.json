@@ -1,1 +1,1 @@
-[[{"location":"C:\\Program Files\\Java\\jdk1.8.0_101","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
+[[{"location":"C:\\Users\\HOME\\.m2\\repository\\org\\springframework\\spring-jdbc\\4.3.9.RELEASE\\spring-jdbc-4.3.9.RELEASE.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"C:\\Program Files\\Java\\jdk1.8.0_101","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"],[{"location":"D:\\04springjdbc\\queryapproch","type":"PROJECT","hints":{"PROJECT_NAME":"queryapproch"}},"com.qa:queryapproch:0.0.1"]]
