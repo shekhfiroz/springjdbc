@@ -19,4 +19,5 @@
 	<bean id="companydoa" class="com.qa.dao.CompanyDao"> 
 		<constructor-arg ref="jdbctemplate" />
 	</bean>
+	
 </beans>
