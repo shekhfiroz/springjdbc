@@ -30,13 +30,22 @@
 			<artifactId>spring-jdbc</artifactId>
 			<version>4.3.9.RELEASE</version>
 		</dependency>
-
-		<!-- MySQL Driver -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>5.0.5</version>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-core</artifactId>
+			<version>4.3.9.RELEASE</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>4.3.9.RELEASE</version>
+		</dependency>
+
+		<!-- MySQL Driver <dependency> <groupId>mysql</groupId> <artifactId>mysql-connector-java</artifactId> 
+			<version>5.0.5</version> </dependency> -->
 
 	</dependencies>
 
